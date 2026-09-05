@@ -1,2 +1,1 @@
-# DSA IN JAVA
-Data Structure and Algorithm in Java
+// Data Structure and Algorithm in Java
